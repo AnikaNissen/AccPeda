@@ -1,5 +1,5 @@
 # AccPeda
-## Data Analysis Files for the Paper -- From the Classroom to Journal Publication: A Guide to Publishing Accounting Pedagogy
+## Data Analysis Files for the Paper -- From the Classroom to Journal Publication: A Guide to Publishing Accounting Instructional Pedagogical Resources
 ### Authors: Samantha Taylor, Bryce Cross, Anika Nissen, Janine McGregor, Naomi Richards
 
 
